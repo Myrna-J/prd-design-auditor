@@ -1,0 +1,149 @@
+{
+  "last_pruned": "2026-03-08",
+  "skills": [
+    {
+      "name": "network-environment",
+      "timestamp": "2026-03-08T10:53:48Z",
+      "trigger": "Legacy migration from evolution.json",
+      "path": ".skills/network-environment/SKILL.md"
+    },
+    {
+      "name": "skill-creator",
+      "timestamp": "2026-03-08T21:05:00Z",
+      "trigger": "Use when creating or refining AI agent skills. This skill implements the \"Claude Code Skills 2.0\" framework. [global]",
+      "path": ".skills/skill-creator/SKILL.md"
+    },
+    {
+      "name": "anti-core-pollution",
+      "timestamp": "2026-03-08T21:34:13.990155Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/anti-core-pollution/SKILL.md"
+    },
+    {
+      "name": "baoyu-article-illustrator",
+      "timestamp": "2026-03-08T21:34:13.990155Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-article-illustrator/SKILL.md"
+    },
+    {
+      "name": "baoyu-comic",
+      "timestamp": "2026-03-08T21:34:13.990155Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-comic/SKILL.md"
+    },
+    {
+      "name": "baoyu-compress-image",
+      "timestamp": "2026-03-08T21:34:13.990155Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-compress-image/SKILL.md"
+    },
+    {
+      "name": "baoyu-cover-image",
+      "timestamp": "2026-03-08T21:34:13.990155Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-cover-image/SKILL.md"
+    },
+    {
+      "name": "baoyu-danger-gemini-web",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-danger-gemini-web/SKILL.md"
+    },
+    {
+      "name": "baoyu-danger-x-to-markdown",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-danger-x-to-markdown/SKILL.md"
+    },
+    {
+      "name": "baoyu-format-markdown",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-format-markdown/SKILL.md"
+    },
+    {
+      "name": "baoyu-image-gen",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-image-gen/SKILL.md"
+    },
+    {
+      "name": "baoyu-infographic",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-infographic/SKILL.md"
+    },
+    {
+      "name": "baoyu-post-to-wechat",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-post-to-wechat/SKILL.md"
+    },
+    {
+      "name": "baoyu-post-to-x",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-post-to-x/SKILL.md"
+    },
+    {
+      "name": "baoyu-slide-deck",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-slide-deck/SKILL.md"
+    },
+    {
+      "name": "baoyu-url-to-markdown",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-url-to-markdown/SKILL.md"
+    },
+    {
+      "name": "claudeception",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/claudeception/SKILL.md"
+    },
+    {
+      "name": "docx",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/docx/SKILL.md"
+    },
+    {
+      "name": "markitdown",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/markitdown/SKILL.md"
+    },
+    {
+      "name": "pdf",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/pdf/SKILL.md"
+    },
+    {
+      "name": "pptx",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/pptx/SKILL.md"
+    },
+    {
+      "name": "prevent-directory-pollution",
+      "timestamp": "2026-03-08T21:34:13.990693Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/prevent-directory-pollution/SKILL.md"
+    },
+    {
+      "name": "xlsx",
+      "timestamp": "2026-03-08T21:34:13.991236Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/xlsx/SKILL.md"
+    },
+    {
+      "name": "baoyu-xhs-images",
+      "timestamp": "2026-03-08T21:47:31.916301Z",
+      "trigger": "Upgraded to Skills 2.0. [global]",
+      "path": ".skills/baoyu-xhs-images/SKILL.md"
+    }
+  ]
+}
